@@ -2,7 +2,7 @@
 
 //
 //
-//                      warden craft
+//                        ward.bot
 //
 //                     𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙-𝙼𝙳 𝙱𝚘𝚝
 //
@@ -26,10 +26,10 @@ global.owner = ['625243240297'] //owner number, u can put multiple owner number,
 global.pemilik = ['625243240297'] //another owner number
 global.premium = ['625243240297'] //premium number
 global.pengguna = 'Satria Pamungkas' //username
-global.botnma = 'Satria-Team' //bot name
-global.ownernma = '👻Satriabot' //owner name
-global.packname = 'Satriabot' //sticker package name
-global.author = 'By Satriabot' //sticker author name
+global.botnma = 'ward-Team' //bot name
+global.ownernma = 'ward.bot' //owner name
+global.packname = 'ward.bot' //sticker package name
+global.author = 'By ward.bot' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
